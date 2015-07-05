@@ -1,0 +1,314 @@
+
+@media only screen and (max-width:240px) {
+    .blog-container {
+        width: 100%;
+    }
+
+}
+
+
+@media only screen and (min-width:241px) and (max-width:480px) {
+    .blog-container {
+        width: 100%;
+    }
+
+}
+
+@media only screen and (max-width:479px) {
+    .blog-container {
+        width: 100%;
+    }
+
+    .scroll-down-icon {
+        display: none;
+    }
+
+    .team .team-member {
+        width: 290px !important;
+        float: none;
+        display: inline-block;
+        text-align: center;
+    }
+
+    .team {
+        display: inline-block;
+        text-align: center;
+        width: 100%;
+        margin-bottom: 40px;
+    }
+
+    .short-blog .blog-desk h2 {
+        font-size: 18px;
+    }
+
+    .btn-group a.hire-btn {
+        margin-top: 20px;
+        display: inline-block;
+    }
+
+
+}
+
+@media only screen and (min-width:481px) and (max-width:729px) {
+    .blog-container {
+        width: 100%;
+    }
+}
+
+
+@media only screen and (min-width:801px) and (max-width:990px) {
+    .blog-container {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width:800px) {
+    .blog-container {
+        width: 100%;
+    }
+}
+
+@media only screen and (min-width:768px) and (max-width:800px) {
+    .fun-factor .one-third, .blog-container {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 60em) {
+
+
+    .blog-container {
+        width: 100%;
+    }
+    .info .title {
+        font-size: 60px;
+    }
+
+    .info .title .designation {
+        width: 60%;
+    }
+    .info .title span, .info .title .designation {
+        margin-bottom: 15px;
+    }
+
+    .nav-toggle-icon, .nav-clone {
+        display: none;
+    }
+
+    #scrollUp {
+        display: none !important;
+    }
+
+    .tittle h1 {
+        font-size: 25px;
+    }
+
+    .tittle h1 span {
+        font-size: 70px;
+    }
+
+    .tittle h2 span {
+        line-height: 25px;
+    }
+
+    .objective-info {
+        width: 100%;
+    }
+
+    .skill-info .skill-box {
+        margin-bottom: 20px;
+    }
+
+    .education-info .year,
+    .education-info .degree,
+    .education-info .details{
+        width: 100%;
+    }
+
+    .extra-port li {
+        margin-bottom: 20px;
+    }
+    .service {
+        margin-bottom: 0;
+    }
+
+    .service-info {
+        display: inline-block;
+        margin-bottom: 20px;
+    }
+    .team .team-member {
+        width: 360px;
+    }
+    .parallax-bg h2 {
+        font-size: 30px;
+    }
+
+    .git-btn {
+        margin-top: 20px;
+    }
+
+    .test-info .quote {
+        width: 90%;
+    }
+
+}
+
+@media only screen and  (max-width:990px) {
+    .blog-container {
+        width: 100%;
+    }
+
+    .info .title {
+        font-size: 60px;
+    }
+
+    .info .title .designation {
+        width: 60%;
+    }
+    .info .title span, .info .title .designation {
+        margin-bottom: 15px;
+    }
+
+    /*.nav-toggle-icon {*/
+        /*display: none;*/
+    /*}*/
+
+    .tittle h1 {
+        font-size: 25px;
+    }
+
+    .tittle h1 span {
+        font-size: 70px;
+    }
+
+    .tittle h2 span {
+        line-height: 25px;
+    }
+
+    .objective-info {
+        width: 100%;
+    }
+
+    .skill-info .skill-box {
+        margin-bottom: 20px;
+    }
+
+    .education-info .year,
+    .education-info .degree,
+    .education-info .details{
+        width: 100%;
+    }
+    .extra-port li {
+        margin-bottom: 20px;
+    }
+
+    .service {
+        margin-bottom: 0;
+    }
+
+    .service-info {
+        display: inline-block;
+        margin-bottom: 20px;
+    }
+
+    .team .team-member {
+        width: 360px;
+    }
+}
+
+@media only screen and (min-width:0px) and (max-width:767px) {
+    .blog-container {
+        width: 100%;
+    }
+
+    .info .title {
+        font-size: 20px;
+    }
+
+    .info .title .designation {
+        font-size: 10px;
+        line-height: 20px;
+        width: 90%;
+    }
+
+    .info .title span, .info .title .designation {
+        margin-bottom: 10px;
+    }
+    .company-name {
+        float: left;
+        text-align: left;
+    }
+
+    .experience-info {
+        margin-bottom: 30px;
+    }
+
+    .tittle h1, .tittle h2, .tittle h2 span {
+        float: left;
+        width: 100%;
+        text-align: left;
+    }
+
+    .tittle h1, .tittle h2 {
+        padding: 0;
+    }
+
+    .tittle h2 span {
+        position: static;
+        padding: 10px 0;
+    }
+
+    .section {
+        padding: 30px 0;
+    }
+
+    .tittle {
+        margin-bottom: 30px;
+    }
+    .interest, .interest-list {
+        margin-top: 30px;
+        text-align: center;
+    }
+
+    .fun-factor .one-third, .contact-row {
+        width: 100%;
+    }
+
+    .tittle h1 {
+        border-right: none;
+        margin-top: 20px;
+    }
+    .btn-group {
+        margin-bottom: 40px;
+    }
+    .service {
+        margin-bottom: 0;
+    }
+
+    .service-info, .contact-row .form-control {
+        display: inline-block;
+        margin-bottom: 20px;
+    }
+
+    .team .team-member {
+        width: 360px;
+        float: none;
+        display: inline-block;
+        text-align: center;
+    }
+
+
+    .team {
+        display: inline-block;
+        text-align: center;
+        width: 100%;
+        margin-bottom: 40px;
+    }
+
+    .clients-list {
+        margin: 0 auto 30px;
+        width: 100%;
+    }
+
+
+}

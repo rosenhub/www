@@ -1,0 +1,57 @@
+a:hover,
+.tittle h1,
+.fun-factor .one-third h2,
+.service-info .desk h4 a:hover,
+.grid figure .social a:hover,
+.menu li a:hover,
+.service-info:hover span i,
+.service-info:hover h4 a,
+.post-header h1 a:hover,
+.post-header h2 a:hover ,
+.post-header .cat a:hover,
+.related-item .cat a:hover,
+.post-item .cat a:hover,
+a.read-more:hover,
+a.read-more,
+.comments-area .reply .comment-reply-link,
+.comment-respond a,
+#filters li:hover, #filters li.active,
+.menu > li.current > a{
+    color: #99ca23;
+}
+
+.info .title .designation,
+.btn-group a:hover,
+.company-name a:hover,
+.grid figure:hover,
+.view-btn:hover,
+.footer-social a:hover,
+.interest-list li a .bg,
+.extra-port li a .bg,
+a.blog-quote-link:hover .quote-with-bg,
+.tags ul li a:hover,
+.comments-area .comment-respond .form-submit input:hover,
+#royal_preloader.royal_preloader_progress .royal_preloader_meter,
+.footer-social a .bg,
+.price-col.feature .p-btn:hover{
+    background: #99ca23;
+}
+
+.btn-group a:hover,
+.price-col.feature .p-btn:hover{
+    border-color: #99ca23;
+}
+
+
+.blog-desk:hover,.grid-wrap .grid-hover {
+    background: rgba(153,202,35,0.7) !important;
+}
+
+.post-link-image a p, .lightGallery li a, .other-page .author-intro {
+    background: rgba(153,202,35,0.7) !important;
+}
+
+
+.post-link-image a:hover p {
+    background: rgba(153,202,35,1) !important;
+}
